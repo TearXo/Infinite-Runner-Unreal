@@ -896,3 +896,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.06-13.04.28:319][  0]LogSlate: Took 0.000553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.02.06-13.04.28:894][  0]LogRenderer: Reallocating scene render targets to support 804x360 Format 10 NumSamples 1 (Frame:1).
 [2023.02.06-13.04.28:894][  0]LogSlate: Took 0.001269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.06-13.04.41:970][275]LogSlate: Took 0.001383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.06-13.04.42:868][375]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:333).
+[2023.02.06-13.04.50:358][258]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.02.06-13.04.53:449][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.02.06-13.04.53:460][587]LogSlate: Took 0.000605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.02.06-13.04.53:477][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.06-13.04.53:511][587]LogSavePackage: Moving '../../../../../../Users/km05260232/Documents/GitHub/Infinite-Runner-Unreal/Saved/Runner0DBF875543EE62503A1C02A3F4DC7863.tmp' to '../../../../../../Users/km05260232/Documents/GitHub/Infinite-Runner-Unreal/Content/ThirdPersonBP/Maps/Runner.umap'
+[2023.02.06-13.04.53:521][587]LogFileHelpers: Saving map 'Runner' took 0.051
+[2023.02.06-13.04.53:533][587]AssetCheck: New page: Asset Save: Runner
+[2023.02.06-13.04.53:533][587]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Runner.Runner
