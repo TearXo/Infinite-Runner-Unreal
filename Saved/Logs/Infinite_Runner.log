@@ -2390,3 +2390,97 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.10-12.25.46:307][194]LogContentValidation: Display: Validating Texture2D /Game/Floors/Textures/Tile_5/tile5_lambert1_Normal.tile5_lambert1_Normal
 [2023.03.10-12.25.46:307][194]LogContentValidation: Display: Validating Texture2D /Game/Floors/Textures/Tile_5/tile5_lambert1_OcclusionRoughnessMetallic.tile5_lambert1_OcclusionRoughnessMetallic
 [2023.03.10-12.25.46:307][194]LogContentValidation: Display: Validating Texture2D /Game/Floors/Textures/Tile_5/tile5_lambert1_BaseColor.tile5_lambert1_BaseColor
+[2023.03.10-12.32.36:803][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.03.10-12.32.36:860][762]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.36:860][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-12.32.36:885][762]LogSlate: Window 'child2' being destroyed
+[2023.03.10-12.32.36:898][762]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.36:898][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.10-12.32.36:966][762]LogSlate: Window 'Infinite_Runner - Unreal Editor' being destroyed
+[2023.03.10-12.32.37:295][763]Cmd: QUIT_EDITOR
+[2023.03.10-12.32.37:295][763]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.10-12.32.37:313][763]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.10-12.32.38:285][763]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.10-12.32.38:286][763]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.10-12.32.38:286][763]LogAudio: Display: Audio Device unregistered from world 'Runner'.
+[2023.03.10-12.32.38:286][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.10-12.32.38:292][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.10-12.32.38:348][763]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.10-12.32.38:348][763]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.10-12.32.38:368][763]LogExit: Preparing to exit.
+[2023.03.10-12.32.39:370][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.03.10-12.32.39:957][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:958][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:959][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:961][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:961][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:961][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:961][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:961][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:961][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:962][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:962][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:963][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:964][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:965][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:967][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:968][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.03.10-12.32.39:969][763]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.03.10-12.32.40:076][763]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.10-12.32.40:188][763]LogExit: Editor shut down
+[2023.03.10-12.32.40:205][763]LogExit: Transaction tracking system shut down
